@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\wooooooooooooord\\wooooooooooooord\\wooooooooooooord\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\wooooooooooooord.bundle.scp.css",
+      "PackagePath": "staticwebassets\\wooooooooooooord.fsozm5f2wh.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\wooooooooooooord\\wooooooooooooord\\wooooooooooooord\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\wooooooooooooord\\wooooooooooooord\\wooooooooooooord\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\wooooooooooooord\\wooooooooooooord\\wooooooooooooord\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\wooooooooooooord\\wooooooooooooord\\wooooooooooooord\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\wooooooooooooord\\wooooooooooooord\\wooooooooooooord\\wwwroot\\js\\Editor.js",
+      "PackagePath": "staticwebassets\\js\\Editor.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.wooooooooooooord.props",
+      "PackagePath": "build\\wooooooooooooord.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.wooooooooooooord.props",
+      "PackagePath": "buildMultiTargeting\\wooooooooooooord.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.wooooooooooooord.props",
+      "PackagePath": "buildTransitive\\wooooooooooooord.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.wooooooooooooord.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.wooooooooooooord.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

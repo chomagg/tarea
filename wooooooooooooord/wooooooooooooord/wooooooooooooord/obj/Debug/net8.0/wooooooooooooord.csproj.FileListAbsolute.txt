@@ -1,0 +1,66 @@
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\appsettings.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.staticwebassets.runtime.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.staticwebassets.endpoints.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.exe
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.deps.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.runtimeconfig.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.dll
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.pdb
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.AssemblyInfoInputs.cache
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.AssemblyInfo.cs
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.csproj.CoreCompileInputs.cache
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\scopedcss\bundle\wooooooooooooord.styles.css
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\scopedcss\projectbundle\wooooooooooooord.bundle.scp.css
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.wooooooooooooord.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.wooooooooooooord.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.build.wooooooooooooord.props
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.wooooooooooooord.props
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.wooooooooooooord.props
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.dll
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\refint\wooooooooooooord.dll
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.pdb
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.genruntimeconfig.cache
+C:\Users\calla\3D Objects\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\ref\wooooooooooooord.dll
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.staticwebassets.endpoints.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.staticwebassets.runtime.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.exe
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.deps.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.runtimeconfig.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.dll
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\bin\Debug\net8.0\wooooooooooooord.pdb
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.AssemblyInfo.cs
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\scopedcss\bundle\wooooooooooooord.styles.css
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\scopedcss\projectbundle\wooooooooooooord.bundle.scp.css
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.wooooooooooooord.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.wooooooooooooord.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.build.wooooooooooooord.props
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.wooooooooooooord.props
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.wooooooooooooord.props
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.dll
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\refint\wooooooooooooord.dll
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.pdb
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\wooooooooooooord.genruntimeconfig.cache
+C:\Users\HP\Downloads\wooooooooooooord\wooooooooooooord\wooooooooooooord\obj\Debug\net8.0\ref\wooooooooooooord.dll

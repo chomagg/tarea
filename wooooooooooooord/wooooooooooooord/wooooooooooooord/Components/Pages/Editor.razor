@@ -1,0 +1,117 @@
+﻿@page "/Editor"
+@using System.Text.Json
+@inject IJSRuntime JSRuntime
+
+<div class="editor-container">
+    <!-- Cinta de herramientas -->
+    <div class="toolbar">
+        <!-- Grupo de herramientas: Fuente -->
+        <div class="toolbar-group">
+            <select @onchange="OnFontFamilyChanged" title="Fuente">
+                <option value="Arial">Arial</option>
+                <option value="Times New Roman">Times New Roman</option>
+                <option value="Courier New">Courier New</option>
+                <option value="Verdana">Verdana</option>
+            </select>
+
+            <select @onchange="OnFontSizeChanged" title="Tamaño">
+                @for (int i = 8; i <= 36; i += 2)
+                {
+                    <option value="@i">@i px</option>
+                }
+            </select>
+        </div>
+
+        <!-- Grupo de herramientas: Formato -->
+        <div class="toolbar-group">
+            <button @onclick="ToggleBold" title="Negrita"><b>B</b></button>
+            <button @onclick="ToggleItalic" title="Cursiva"><i>I</i></button>
+            <button @onclick="ToggleUnderline" title="Subrayado"><u>U</u></button>
+            <input type="color" @onchange="OnTextColorChanged" title="Color de texto" />
+        </div>
+
+        <!-- Grupo de herramientas: Listas -->
+        <div class="toolbar-group">
+            <button @onclick="InsertBulletList" title="Lista con viñetas">● Lista</button>
+            <button @onclick="InsertNumberList" title="Lista numerada">1. Lista</button>
+        </div>
+
+        <!-- Grupo de herramientas: Tablas e imágenes -->
+        <div class="toolbar-group">
+            <button @onclick="InsertTable" title="Insertar tabla">Tabla</button>
+            <button @onclick="InsertImage" title="Insertar imagen">Imagen</button>
+        </div>
+
+        <!-- Grupo de herramientas: Alineación -->
+@*         <div class="toolbar-group">
+            <button @onclick="() => ApplyCommand('justifyLeft')" title="Alinear a la izquierda">←</button>
+            <button @onclick="() => ApplyCommand('justifyCenter')" title="Centrar">↔</button>
+            <button @onclick="() => ApplyCommand('justifyRight')" title="Alinear a la derecha">→</button>
+            <button @onclick="() => ApplyCommand('justifyFull')" title="Justificar">⇌</button>
+        </div> *@
+    </div>
+
+    <!-- Área de edición -->
+    <div @ref="editorRef"
+         contenteditable="true"
+         class="editor-content"
+         @oninput="OnContentChanged">
+    </div>
+</div>
+
+@code {
+    private ElementReference editorRef;
+    private string fontFamily = "Arial";
+    private int fontSize = 12;
+    private string textColor = "#000000";
+
+    private void OnFontFamilyChanged(ChangeEventArgs e)
+    {
+        fontFamily = e.Value?.ToString() ?? "Arial";
+        _ = JSRuntime.InvokeVoidAsync("document.execCommand", "fontName", false, fontFamily);
+    }
+
+    private void OnFontSizeChanged(ChangeEventArgs e)
+    {
+        if (int.TryParse(e.Value?.ToString(), out int size))
+        {
+            fontSize = size;
+            _ = JSRuntime.InvokeVoidAsync("document.execCommand", "fontSize", false, size.ToString());
+        }
+    }
+
+    private void ToggleBold() => ApplyCommand("bold");
+    private void ToggleItalic() => ApplyCommand("italic");
+    private void ToggleUnderline() => ApplyCommand("underline");
+
+    private void OnTextColorChanged(ChangeEventArgs e)
+    {
+        textColor = e.Value?.ToString() ?? "#000000";
+        _ = JSRuntime.InvokeVoidAsync("document.execCommand", "foreColor", false, textColor);
+    }
+
+    private void InsertBulletList() => ApplyCommand("insertUnorderedList");
+    private void InsertNumberList() => ApplyCommand("insertOrderedList");
+
+    private void InsertTable()
+    {
+        _ = JSRuntime.InvokeVoidAsync("document.execCommand", "insertHTML", false,
+            "<table border='1' style='width:100%;'><tr><td>Celda 1</td><td>Celda 2</td></tr></table>");
+    }
+
+    private void InsertImage()
+    {
+        _ = JSRuntime.InvokeVoidAsync("document.execCommand", "insertImage", false,
+            "https://via.placeholder.com/150");
+    }
+
+    private void OnContentChanged(EventArgs e)
+    {
+        // Manejar cambios en el contenido si es necesario
+    }
+
+    private void ApplyCommand(string command)
+    {
+        _ = JSRuntime.InvokeVoidAsync("document.execCommand", command, false, null);
+    }
+}
